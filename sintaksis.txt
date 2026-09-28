@@ -1,0 +1,42 @@
+materi: sintaksis
+
+tujuan pembelajaran
+setelah mempelajari materi ini,pembaca diharapkan mampu memahami pengertian,ruang lingkup,unsur,ciri,jenis,fungsi,contoh,penerapan,dan cara menganalisis topik secara mandiri.
+
+1. pengertian
+sintaksis adalah cabang linguistik yang mempelajari cara kata disusun menjadi frasa, klausa, dan kalimat serta hubungan fungsi dan kategori di dalamnya.
+
+2. frasa
+frasa adalah gabungan kata yang bersifat nonpredikatif. frasa nominal memiliki unsur pusat berupa nomina, frasa verbal berpusat pada verba, frasa adjektival pada adjektiva, dan frasa preposisional diawali preposisi.
+
+3. klausa
+klausa merupakan satuan yang sekurang-kurangnya memiliki predikat dan dapat memiliki subjek serta unsur lainnya. klausa dapat menjadi kalimat atau menjadi bagian dari kalimat yang lebih kompleks.
+
+4. kalimat
+kalimat memiliki struktur yang memungkinkan gagasan disampaikan secara utuh. fungsi sintaksis yang umum adalah subjek, predikat, objek, pelengkap, dan keterangan. tidak semua kalimat harus memiliki seluruh fungsi tersebut.
+
+5. kalimat majemuk
+kalimat majemuk terdiri atas dua klausa atau lebih. hubungan antarklausa dapat berupa penambahan, pertentangan, pilihan, sebab-akibat, syarat, tujuan, waktu, dan hubungan lainnya.
+
+6. analisis
+analisis sintaksis dilakukan dengan menemukan predikat terlebih dahulu, kemudian menentukan unsur yang bergantung padanya. setelah itu, periksa hubungan antarklausa dan fungsi setiap unsur.
+
+panduan belajar
+materi ini hendaknya dipelajari bertahap. mulai dengan memahami pengertian, lanjutkan dengan unsur dan jenis, kemudian pelajari contoh, latihan analisis, dan terapkan pada kasus baru.
+
+kesalahan umum
+kesalahan sering terjadi ketika konsep diingat sebagai daftar terpisah dan tidak dikaitkan dengan konteks. kesalahan lain adalah menggunakan contoh tanpa menjelaskan alasannya, menyamakan istilah yang sebenarnya berbeda, atau menerapkan aturan secara otomatis.
+
+latihan mandiri
+1. jelaskan konsep utama dengan bahasa sendiri.
+2. sebutkan unsur atau bagian penting dari materi.
+3. buat minimal lima contoh yang relevan.
+4. temukan contoh yang kurang tepat dan kemukakan perbaikannya.
+5. jelaskan mengapa perbaikan tersebut lebih tepat.
+6. buat kesimpulan satu sampai tiga paragraf berdasarkan pemahaman anda.
+
+rangkuman
+penguasaan materi membutuhkan pemahaman konsep, kemampuan membedakan unsur, kemampuan menganalisis contoh, dan kemampuan menerapkan pengetahuan. pembelajaran bahasa yang baik tidak hanya menghasilkan orang yang tahu kaidah,tetapi juga mampu menggunakannya untuk tujuan komunikasi yang jelas,tepat,dan bertanggung jawab.
+
+evaluasi akhir
+setelah selesai membaca,cobalah menjelaskan materi ini kepada orang lain tanpa membaca teks. jika masih sulit, catat bagian yang belum jelas dan pelajari kembali bagian tersebut.
