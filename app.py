@@ -248,7 +248,7 @@ st.set_page_config(
 # KONFIGURASI DATABASE
 # =========================================================
 
-FOLDER_DATABASE = "database"
+FOLDER_DATABASE = "."
 
 
 # =========================================================
